@@ -12,6 +12,7 @@
 # **first**
 
 require "03_simon_says"
+require "rspec"
 
 describe "Simon says" do
   describe "echo" do
