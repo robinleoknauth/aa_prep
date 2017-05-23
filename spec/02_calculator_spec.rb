@@ -36,6 +36,7 @@
 #   Wikipedia if you forgot your high school math).
 
 require "02_calculator"
+require "rspec"
 
 describe "add" do
   it "adds 0 and 0" do
